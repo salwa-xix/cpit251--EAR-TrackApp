@@ -2,7 +2,7 @@
 
 # TrackApp – Laundry Tracker Application
 
-TrackApp is a Java-based laundry management system that helps laundry shops manage customer orders, update order status, and improve communication between employees and customers. The system allows employees to create and edit orders, while customers can track their order status, view order history, receive notifications, and rate the service after pickup.
+A Java-based laundry management system that helps laundry shops manage customer orders, update order status, and improve communication between employees and customers. The system allows employees to create and edit orders, while customers can track their order status, receive notifications, and rate the service after Ready.
 
 This project was developed as part of the CPIT 251 – Software Engineering course using the Extreme Programming (XP) methodology.
 
